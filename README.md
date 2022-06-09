@@ -4,7 +4,7 @@ Stream Bunny is a place to store streaming reminders
 
 ## Installation
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Chipmunk](https://www.tomflanders.com/media/posts/275/gallery/5-thumbnail.jpg)
 
 ## Usage
 
